@@ -1,1 +1,1 @@
-Após ver as palestras, as trilhas que mais me interessaram foram a de inteligencia artificial 
+Após ver as palestras, as trilhas que mais me interessaram foram a de inteligencia artificial e sistemas de software. Na trilha de IA, tenho interesse particular no processamento de línguagem natural, pretendo pegar MAC0444, MAE0515 além de também MAC0459 para completar a primeira parte da trilha. Na trilha de sistemas de software
